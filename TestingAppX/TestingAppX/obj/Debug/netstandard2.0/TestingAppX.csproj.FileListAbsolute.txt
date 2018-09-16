@@ -1,0 +1,9 @@
+D:\GIT REPO\GIT_Personal\XamarinX\TestingAppX\TestingAppX\TestingAppX\bin\Debug\netstandard2.0\TestingAppX.deps.json
+D:\GIT REPO\GIT_Personal\XamarinX\TestingAppX\TestingAppX\TestingAppX\bin\Debug\netstandard2.0\TestingAppX.dll
+D:\GIT REPO\GIT_Personal\XamarinX\TestingAppX\TestingAppX\TestingAppX\bin\Debug\netstandard2.0\TestingAppX.pdb
+D:\GIT REPO\GIT_Personal\XamarinX\TestingAppX\TestingAppX\TestingAppX\obj\Debug\netstandard2.0\TestingAppX.csproj.CoreCompileInputs.cache
+D:\GIT REPO\GIT_Personal\XamarinX\TestingAppX\TestingAppX\TestingAppX\obj\Debug\netstandard2.0\TestingAppX.AssemblyInfoInputs.cache
+D:\GIT REPO\GIT_Personal\XamarinX\TestingAppX\TestingAppX\TestingAppX\obj\Debug\netstandard2.0\TestingAppX.AssemblyInfo.cs
+D:\GIT REPO\GIT_Personal\XamarinX\TestingAppX\TestingAppX\TestingAppX\obj\Debug\netstandard2.0\TestingAppX.dll
+D:\GIT REPO\GIT_Personal\XamarinX\TestingAppX\TestingAppX\TestingAppX\obj\Debug\netstandard2.0\TestingAppX.pdb
+D:\GIT REPO\GIT_Personal\XamarinX\TestingAppX\TestingAppX\TestingAppX\obj\Debug\netstandard2.0\TestingAppX.csprojAssemblyReference.cache
